@@ -1,0 +1,6 @@
+Ordem de Precedência
+
+1  ()
+2  ** - Potência
+3  * / // % - Multiplicação, Divisão, Divisão inteira, Resto da Divisão
+4 - (+ -) - Adição e Subtração  
